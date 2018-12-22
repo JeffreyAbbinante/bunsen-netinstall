@@ -2,7 +2,7 @@
 
 #alsa-base
 alsa-utils
-amd64-microcode
+#amd64-microcode
 anacron
 apt-transport-https
 apt-xapian-index
@@ -39,12 +39,12 @@ feh
 file-roller
 filezilla
 firefox-esr
-firmware-b43-installer
-firmware-b43legacy-installer
-firmware-linux
+#firmware-b43-installer
+#firmware-b43legacy-installer
+#firmware-linux
 #firmware-ralink
-firmware-realtek
-firmware-iwlwifi
+#firmware-realtek
+#firmware-iwlwifi
 #flashplugin-nonfree
 fonts-cantarell
 #fonts-dejavu
@@ -95,7 +95,7 @@ htop
 hwdata
 i965-va-driver
 #iceweasel
-intel-microcode
+#intel-microcode
 #jfsutils
 lame
 less
@@ -166,7 +166,8 @@ tumbler
 unace
 unalz
 unar
-unrar
+#unrar
+unrar-free
 unzip
 update-inetd
 usb-modeswitch
